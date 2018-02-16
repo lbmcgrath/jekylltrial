@@ -2,4 +2,4 @@ name: [SampleWebsite]
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-minimal
+remote-theme: fongandrew/hydeout
